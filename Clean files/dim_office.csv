@@ -1,0 +1,15 @@
+office,country,country_code,subdivision_code,region,holidays_available
+New York,United States,US,US-NY,Americas,True
+Boston,United States,US,US-MA,Americas,True
+Chicago,United States,US,US-IL,Americas,True
+Sao Paulo,Brazil,BR,BR-SP,Americas,True
+London,United Kingdom,GB,GB-ENG,EMEA,True
+Munich,Germany,DE,DE-BY,EMEA,True
+Paris,France,FR,,EMEA,True
+Madrid,Spain,ES,ES-MD,EMEA,True
+Tokyo,Japan,JP,,APAC,True
+Singapore,Singapore,SG,,APAC,True
+Sydney,Australia,AU,AU-NSW,APAC,True
+New Delhi,India,IN,,India & Middle East,False
+Dubai,United Arab Emirates,AE,,India & Middle East,False
+Riyadh,Saudi Arabia,SA,,India & Middle East,False
